@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "form-sensor-app",
-    "slug": "form-sensor-app",
+    "name": "sticker-smash-app",
+    "slug": "Sticker Smash",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
